@@ -14,3 +14,6 @@ In this file, I have described how I prefer my linux.
 - **Screen lock**: i3lock
 - **Wallpaper**: nitrogen
 - **Notification Daemon**: dunst 
+
+***Note***: fonts sit in the ~/.local/share/fonts/                     (Create the directory if doesn't exist)
+            after fonts are moved, update the font cache using the command `fc cache -fv`
